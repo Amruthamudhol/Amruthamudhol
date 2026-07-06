@@ -5,9 +5,10 @@
 
 ## 👩‍💻 About Me
 
-🎓 Bachelor of Engineering in Computer Science & Engineering (2026)
+Hi, I'm **Amruta Mudhol**, a Computer Science and Engineering student passionate about building efficient, scalable, and user-friendly software solutions.
 
-💻 Passionate about Java Backend Development and Problem Solving.
+💻 I enjoy developing applications using **Java** and continuously improving my understanding of object-oriented programming, data structures, algorithms, and backend development.
+
 
 🌱 Currently learning
 - Core Java
