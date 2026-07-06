@@ -1,136 +1,106 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Amruta Mudhol</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:667eea,50:764ba2,100:f093fb&text=Hi%20👋,%20I'm%20Amruta%20Mudhol&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20|%20AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=60"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;Backend+Development+Learner;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-# 👩‍💻 About Me
-
-🎓 I'm **Amruta Mudhol**, a Computer Science & Engineering student with a passion for building scalable and efficient software solutions.
-
-💻 I enjoy developing Java applications, solving programming problems, and continuously improving my backend development skills.
-
-🌱 **Currently Learning**
-
-- ☕ Core Java
-- 🚀 Advanced Java
-- 🌿 Spring Framework
-- 🍃 Spring Boot
-- 🗄 Hibernate
-- 🔗 REST APIs
-- 🛢 MySQL
-- 📚 Data Structures & Algorithms
-
-🤖 I also enjoy working in Artificial Intelligence and Machine Learning using Python, TensorFlow, Scikit-learn, Pandas, and NumPy.
-
-🚀 I believe in writing clean, maintainable code and learning through real-world projects.
-
-🎯 **Goal:** Become a Java Backend Developer and contribute to impactful software products.
-
----
-
-# 💻 Tech Stack
+<h3 align="center">
+💻 Java Developer | 🌱 Spring Boot Learner | 🤖 AI & ML Enthusiast
+</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,c,cpp,html,css,js,mysql,git,github,vscode"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Java+Backend+Developer;Always+Learning+New+Technologies;Love+Building+Projects" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 👩‍💻 About Me
 
-## 🧠 Multiclass Epileptic Seizure Detection in EEG
-
-- Python
-- CNN + LSTM
-- OpenCV
-- Deep Learning
-
-Developed a deep learning model to classify multiple epileptic seizure types from EEG signals.
-
----
-
-## 🍽 AI Powered Recipe Recommendation System
-
-- Python
-- Machine Learning
-- NLP
-- TensorFlow
-
-Built an intelligent recommendation system that suggests recipes based on user preferences and ingredients.
+- 🎓 Computer Science & Engineering Student
+- 💻 Passionate about Java Backend Development
+- 🌱 Currently learning Spring Boot, Hibernate, REST APIs, and Microservices
+- 📚 Strong foundation in Core Java, OOP, Collections, JDBC, SQL, and DSA
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🚀 Love building real-world projects and solving coding challenges
+- 🎯 Goal: Become a Software Engineer specializing in Java Backend Development
 
 ---
 
-## 🏥 Hospital Management System
+## 🛠️ Tech Stack
 
-- Java
-- MySQL
-- HTML
-- CSS
-- JavaScript
+### Languages
 
-Developed a hospital management system for appointments, billing, and patient record management.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Backend
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
+
+### Frontend
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Database & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-# 📚 Currently Exploring
+## 🚀 Featured Projects
+
+### 🧠 Multiclass Epileptic Seizure Detection
+> Deep Learning | Python | CNN | LSTM
+
+Developed a deep learning model for classifying multiple epileptic seizure types using EEG signals.
+
+---
+
+### 🍽 AI-Powered Recipe Recommendation System
+> Python | NLP | TensorFlow | Machine Learning
+
+Built a recommendation system that suggests recipes based on ingredients and user preferences.
+
+---
+
+### 🏥 Hospital Management System
+> Java | MySQL | HTML | CSS | JavaScript
+
+Developed a web-based application for managing hospital operations including appointments and billing.
+
+---
+
+## 🌱 Currently Learning
 
 - Spring Boot
 - REST APIs
 - Hibernate
-- SQL Optimization
-- Clean Code
+- Microservices
 - Design Patterns
 
 ---
 
-# 📈 GitHub
+## 📫 Connect With Me
 
-🔗 **GitHub:**  
-https://github.com/Amruthamudhol
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/amruta-mudhol
-
-📧 **Email:**  
-amrutamudhol571@gmail.com
-
----
-
-# 🌟 Fun Facts
-
-- 💡 I enjoy learning new technologies.
-- ☕ Coffee + Java = Productivity.
-- 🚀 I love building real-world applications.
-- 📖 Always curious to explore something new.
+- 📧 **Email:** amrutamudhol571@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/amruta-mudhol
+- 🐙 **GitHub:** https://github.com/Amruthamudhol
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ *"Learning never stops. Every project is a step forward."*
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:667eea,50:764ba2,100:f093fb"/>
+Thanks for visiting my profile! 😊
 
 </div>
-
-
-
-
-
-
 
 
 
