@@ -86,6 +86,12 @@ Developed a web-based application for managing hospital operations including app
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src=https://streak-stats.demolab.com?user=Amruthamudhol&theme=github-dark-blue&hide_border=true/>
+</p>
+
 ## 📫 Connect With Me
 
 - 📧 **Email:** amrutamudhol571@gmail.com
