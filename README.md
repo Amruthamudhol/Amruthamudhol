@@ -1,112 +1,123 @@
 <h1 align="center">Hi 👋, I'm Amruta Mudhol</h1>
-
-<h3 align="center">
-💻 Java Developer | 🌱 Spring Boot Learner | 🤖 AI & ML Enthusiast
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Java+Backend+Developer;Always+Learning+New+Technologies;Love+Building+Projects" />
-</p>
+<h3 align="center">Java Developer | AI & Machine Learning Enthusiast | Computer Science Student</h3>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science & Engineering Student
-- 💻 Passionate about Java Backend Development
-- 🌱 Currently learning Spring Boot, Hibernate, REST APIs, and Microservices
-- 📚 Strong foundation in Core Java, OOP, Collections, JDBC, SQL, and DSA
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 🚀 Love building real-world projects and solving coding challenges
-- 🎯 Goal: Become a Software Engineer specializing in Java Backend Development
+🎓 Bachelor of Engineering in Computer Science & Engineering (2026)
+
+💻 Passionate about Java Backend Development and Problem Solving.
+
+🌱 Currently learning
+- Core Java
+- Advanced Java
+- Spring Framework
+- Spring Boot
+- Hibernate
+- SQL
+
+🚀 Interested in
+- Java Backend Development
+- Full Stack Development
+- Artificial Intelligence & Machine Learning
+
+📍 Bengaluru, Karnataka, India
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-### Languages
+### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 🌐 Web Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
 
-### Backend
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
+### ⚙️ Frameworks & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,git,github,vscode" />
+</p>
 
-### Frontend
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Database & Tools
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### 🤖 AI & ML
+- Machine Learning
+- Deep Learning
+- NLP
+- TensorFlow
+- Scikit-learn
+- Pandas
+- NumPy
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 Multiclass Epileptic Seizure Detection
-> Deep Learning | Python | CNN | LSTM
+### 🧠 Multiclass Epileptic Seizure Detection in EEG
+- Python
+- CNN + LSTM
+- OpenCV
+- Deep Learning
 
-Developed a deep learning model for classifying multiple epileptic seizure types using EEG signals.
+Developed a deep learning model to classify multiple epileptic seizure types from EEG signals.
 
 ---
 
-### 🍽 AI-Powered Recipe Recommendation System
-> Python | NLP | TensorFlow | Machine Learning
+### 🍽️ AI-Powered Recipe Recommendation System
+- Python
+- Machine Learning
+- NLP
+- TensorFlow
 
-Built a recommendation system that suggests recipes based on ingredients and user preferences.
+Built an intelligent recommendation system that suggests recipes based on user preferences and ingredients.
 
 ---
 
 ### 🏥 Hospital Management System
-> Java | MySQL | HTML | CSS | JavaScript
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+- MySQL
 
-Developed a web-based application for managing hospital operations including appointments and billing.
-
----
-
-## 🌱 Currently Learning
-
-- Spring Boot
-- REST APIs
-- Hibernate
-- Microservices
-- Design Patterns
+Designed and developed a hospital management system for appointments, billing, and patient records.
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src=https://streak-stats.demolab.com?user=Amruthamudhol&theme=github-dark-blue&hide_border=true/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Amruthamudhol&show_icons=true&theme=github_dark)
 
-## 📫 Connect With Me
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amruthamudhol&layout=compact&theme=github_dark)
 
-- 📧 **Email:** amrutamudhol571@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/amruta-mudhol
-- 🐙 **GitHub:** https://github.com/Amruthamudhol
+![](https://streak-stats.demolab.com?user=Amruthamudhol&theme=github-dark)
 
 ---
 
-<div align="center">
+## 🌐 Connect with Me
 
-### ⭐ *"Learning never stops. Every project is a step forward."*
+- 💼 LinkedIn: https://linkedin.com/in/amruta-mudhol
+- 🐙 GitHub: https://github.com/Amruthamudhol
+- 📧 Email: amrutamudhol571@gmail.com
 
-Thanks for visiting my profile! 😊
+---
 
-</div>
+## 💭 Quote
+
+> *"Code. Learn. Build. Repeat."* 🚀
+
+
+
+
 
 
 
