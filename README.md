@@ -1,46 +1,73 @@
 <h1 align="center">Hi 👋, I'm Amruta Mudhol</h1>
 
 <h3 align="center">
-Java Developer | AI & Machine Learning Enthusiast
+Software Engineer | Java Developer | AI & Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Java+Developer;Backend+Development+Enthusiast;AI+%26+Machine+Learning;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Software+Engineer;Java+Developer;Backend+Development+Enthusiast;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm **Amruta Mudhol**, a passionate **Java Developer** with a strong interest in building efficient, scalable, and user-friendly applications.
+I'm **Amruta Mudhol**, a passionate **Software Engineer** and **Java Developer** dedicated to building efficient, scalable, and user-friendly applications.
 
-I enjoy solving real-world problems through clean code and continuously expanding my knowledge of backend development, software engineering, and Artificial Intelligence.
+I enjoy solving real-world problems through clean, maintainable code while continuously expanding my expertise in backend development, software engineering, and Artificial Intelligence.
 
-- 🔭 Exploring Java Backend Development
-- 🌱 Learning Spring Framework, Spring Boot & Hibernate
-- 💡 Interested in AI, Machine Learning & Full Stack Development
-- 💬 Ask me about Java, SQL, OOP, Collections and Git
+- 💻 Software Engineer
+- ☕ Java Developer
+- 🌱 Currently learning **Spring Framework, Spring Boot, Hibernate, **
+- 🚀 Interested in **Backend Development, Full Stack Development, AI & Machine Learning**
+- 💬 Ask me about **Java, OOP, Collections, Streams, SQL, Spring**
 - 📍 Bengaluru, Karnataka, India
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
+
+### Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
+</p>
+
+### Web Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
+
+### Frameworks & Libraries
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,hibernate" />
+</p>
+
+### Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven" />
+</p>
+
+### AI & Machine Learning
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,javascript,git,github,vscode,python,c,cpp" />
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
 </p>
-
-### 🤖 AI & Machine Learning
-
-- Machine Learning
-- Deep Learning
-- NLP
-- TensorFlow
-- Scikit-learn
-- Pandas
-- NumPy
 
 ---
 
@@ -51,12 +78,13 @@ I enjoy solving real-world problems through clean code and continuously expandin
 **Tech Stack**
 
 - Python
+- TensorFlow
 - CNN
 - LSTM
-- TensorFlow
 - OpenCV
+- Machine Learning
 
-Developed a deep learning model for multiclass epileptic seizure detection using EEG signals to improve classification accuracy.
+✔ Developed a deep learning model to classify multiclass epileptic seizure stages from EEG signals with improved prediction accuracy.
 
 ---
 
@@ -69,7 +97,7 @@ Developed a deep learning model for multiclass epileptic seizure detection using
 - NLP
 - TensorFlow
 
-Developed an intelligent recommendation system that suggests recipes based on ingredients and user preferences.
+✔ Built an intelligent recommendation system that suggests recipes based on ingredients and user preferences.
 
 ---
 
@@ -78,35 +106,28 @@ Developed an intelligent recommendation system that suggests recipes based on in
 **Tech Stack**
 
 - Java
-- MySQL
 - HTML
 - CSS
 - JavaScript
+- MySQL
 
-Designed a hospital management system with patient records, appointments, billing, and administrative modules.
+✔ Designed and developed a complete hospital management system for appointments, billing, patient records, and administration.
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Amruthamudhol&show_icons=true&theme=github_dark&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amruthamudhol&layout=compact&theme=github_dark&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Amruthamudhol&theme=github-dark&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amruthamudhol&theme=github-dark&hide_border=true"/>
-
 </p>
 
 ---
@@ -114,9 +135,15 @@ Designed a hospital management system with patient records, appointments, billin
 # 🏆 GitHub Trophies
 
 <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Amruthamudhol&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Amruthamudhol&theme=algolia&margin-w=10&margin-h=10&no-frame=true"/>
+---
 
+# 📊 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Amruthamudhol&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -135,14 +162,24 @@ Designed a hospital management system with patient records, appointments, billin
 
 </p>
 
+<p align="center">
+
 📧 **Email:** amrutamudhol571@gmail.com
+
+</p>
 
 ---
 
 # 💡 Quote
 
-<div align="center">
+<p align="center">
 
-### *"Code. Learn. Build. Repeat."* 🚀
+> **"Code. Learn. Build. Repeat." 🚀**
 
-</div>
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
