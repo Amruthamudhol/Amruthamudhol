@@ -1,55 +1,39 @@
 <h1 align="center">Hi 👋, I'm Amruta Mudhol</h1>
-<h3 align="center">Java Developer | AI & Machine Learning Enthusiast | Computer Science Student</h3>
+
+<h3 align="center">
+Java Developer | AI & Machine Learning Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Java+Developer;Backend+Development+Enthusiast;AI+%26+Machine+Learning;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-Hi, I'm **Amruta Mudhol**, a Computer Science and Engineering student passionate about building efficient, scalable, and user-friendly software solutions.
+I'm **Amruta Mudhol**, a passionate **Java Developer** with a strong interest in building efficient, scalable, and user-friendly applications.
 
-💻 I enjoy developing applications using **Java** and continuously improving my understanding of object-oriented programming, data structures, algorithms, and backend development.
+I enjoy solving real-world problems through clean code and continuously expanding my knowledge of backend development, software engineering, and Artificial Intelligence.
 
-
-🌱 Currently learning
-- Core Java
-- Advanced Java
-- Spring Framework
-- Spring Boot
-- Hibernate
-- SQL
-
-🚀 Interested in
-- Java Backend Development
-- Full Stack Development
-- Artificial Intelligence & Machine Learning
-
-📍 Bengaluru, Karnataka, India
+- 🔭 Exploring Java Backend Development
+- 🌱 Learning Spring Framework, Spring Boot & Hibernate
+- 💡 Interested in AI, Machine Learning & Full Stack Development
+- 💬 Ask me about Java, SQL, OOP, Collections and Git
+- 📍 Bengaluru, Karnataka, India
 
 ---
 
-## 🚀 Tech Stack
+# 💻 Tech Stack
 
-### 💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,javascript,git,github,vscode,python,c,cpp" />
+
 </p>
 
-### 🌐 Web Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
+### 🤖 AI & Machine Learning
 
-### 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### ⚙️ Frameworks & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=spring,hibernate,git,github,vscode" />
-</p>
-
-### 🤖 AI & ML
 - Machine Learning
 - Deep Learning
 - NLP
@@ -60,67 +44,105 @@ Hi, I'm **Amruta Mudhol**, a Computer Science and Engineering student passionate
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🧠 Multiclass Epileptic Seizure Detection in EEG
+## 🧠 Multiclass Epileptic Seizure Detection in EEG
+
+**Tech Stack**
+
 - Python
-- CNN + LSTM
+- CNN
+- LSTM
+- TensorFlow
 - OpenCV
-- Deep Learning
 
-Developed a deep learning model to classify multiple epileptic seizure types from EEG signals.
+Developed a deep learning model for multiclass epileptic seizure detection using EEG signals to improve classification accuracy.
 
 ---
 
-### 🍽️ AI-Powered Recipe Recommendation System
+## 🍽️ AI-Powered Recipe Recommendation System
+
+**Tech Stack**
+
 - Python
 - Machine Learning
 - NLP
 - TensorFlow
 
-Built an intelligent recommendation system that suggests recipes based on user preferences and ingredients.
+Developed an intelligent recommendation system that suggests recipes based on ingredients and user preferences.
 
 ---
 
-### 🏥 Hospital Management System
+## 🏥 Hospital Management System
+
+**Tech Stack**
+
 - Java
-- SQL
+- MySQL
 - HTML
 - CSS
 - JavaScript
-- MySQL
 
-Designed and developed a hospital management system for appointments, billing, and patient records.
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Amruthamudhol&show_icons=true&theme=github_dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amruthamudhol&layout=compact&theme=github_dark)
-
-![](https://streak-stats.demolab.com?user=Amruthamudhol&theme=github-dark)
+Designed a hospital management system with patient records, appointments, billing, and administrative modules.
 
 ---
 
-## 🌐 Connect with Me
+# 📊 GitHub Analytics
 
-- 💼 LinkedIn: https://linkedin.com/in/amruta-mudhol
-- 🐙 GitHub: https://github.com/Amruthamudhol
-- 📧 Email: amrutamudhol571@gmail.com
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amruthamudhol&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amruthamudhol&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Amruthamudhol&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amruthamudhol&theme=github-dark&hide_border=true"/>
+
+</p>
 
 ---
 
-## 💭 Quote
+# 🏆 GitHub Trophies
 
-> *"Code. Learn. Build. Repeat."* 🚀
+<p align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=Amruthamudhol&theme=algolia&margin-w=10&margin-h=10&no-frame=true"/>
 
+</p>
 
+---
 
+# 🌐 Connect With Me
 
+<p align="center">
 
+<a href="https://linkedin.com/in/amruta-mudhol">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
+<a href="https://github.com/Amruthamudhol">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
+</p>
 
+📧 **Email:** amrutamudhol571@gmail.com
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+### *"Code. Learn. Build. Repeat."* 🚀
+
+</div>
