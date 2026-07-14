@@ -148,23 +148,25 @@ I enjoy solving real-world problems through clean, maintainable code while conti
 
 ---
 
-# 🌐 Connect With Me
-
 <p align="center">
 
-<a href="https://linkedin.com/in/amruta-mudhol">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://linkedin.com/in/amruta-mudhol" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
-<a href="https://github.com/Amruthamudhol">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/Amruthamudhol" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
+
+<a href="mailto:amrutamudhol571@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
 
 </p>
 
 <p align="center">
 
-📧 **Email:** amrutamudhol571@gmail.com
+📧 <b>Email:</b> <a href="mailto:amrutamudhol571@gmail.com">amrutamudhol571@gmail.com</a>
 
 </p>
 
